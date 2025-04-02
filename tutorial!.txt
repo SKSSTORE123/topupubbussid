@@ -1,0 +1,67 @@
+SIMAK BAIK-BAIK TUTORIAL NYA! 
+
+TUTORIAL KE SATU:KALIAN WAJIB DOWNLOAD LINK APK YANG AKU KASIH DI BAWAH
+                   LINK APK:https://drive.google.com/file/d/1kbgLKxvNCZvRoQdztMM-aq6T6Rg5gAah/view?usp=drivesdk
+
+TUTORIAL KE DUA:KALIAN WAJIB SALIN COMMAND KE TERMUX SATU PERBARIS
+                    
+COMMAND KE SATU:termux-setup-storage
+                                        pkg update && pkg upgrade 
+                                        pkg install git 
+                                        pkg install python 
+                                        pkg install python-pip 
+                                        pip install requests 
+                                        pip install colorama 
+                                        pip install pyfiglet 
+                                        pip install pystyle
+                                        
+COMMAND KE DUA:pkg update && pkg upgrade 
+                                      pkg install git 
+                                      pkg install python 
+                                      pkg install python-pip 
+                                      pip install requests 
+                                      git clone https://github.com/SKSSTORE123/topupubbussid.git
+                                      cd topupubbussid
+                                      python UBVIP.py
+                                      
+TUTORIAL KE TIGA:KALIAN BUKA APK HTTP CANNARY
+
+TUTORIAL KE EMPAT:KALIAN PENCET GARIS TIGA POJOK KIRI ATAS
+
+TUTORIAL KE LIMA:KALIAN PENCET SETTING PALING BAWAH
+
+TUTORIAL KE ENAM:KALIAN PENCET YANG NAMA NYA APP TARGETS
+
+TUTORIAL KE TUJUH:JIKA SUDAH KALIAN PENCET TANDA (+)
+
+TUTORIAL KE DELAPAN:JIKA SUDAH KALIAN PENCET MAKA KALI CARI YANG NAMA NYA BUS SIMULATOR INDONESIA YANG VERSI 3.6.1
+
+TUTORIAL KE SEMBILAN:JIKA SUDAH KALIAN CARI MAKA KALIAN PENCET LAH NAMA APK NYA
+
+TUTORIAL KE SEPULUH:JIKA SUDAH KALIAN PERGI KE HALAMAN PERTAMA APK HTTP CANNARY NYA
+
+TUTORIAL KE SEBELAS:JIKA SUDAH, KALIAN PENCET WARNA BIRU PALING BAWAH
+
+TUTORIAL KE DUA BELAS:JIKA SUDAH, KALIAN PERGI KE APK BUSSID VERSI 3.6.1
+
+TUTORIAL KE TIGA BELAS:JIKA SUDAH DI GARASI MAKA KALIAN PERGI KE APK HTTP CANNARY NYA
+
+TUTORIAL KE EMPAT BELAS:JIKA SUDAH KE APK HTTP CANNARY, KALIAN PENCET SALAH SATU
+
+TUTORIAL KE LIMA BELAS:JIKA SUDAH KALIAN PENCET SALAH SATU MAKA KALIAN PENCET YANG NAMA NYA REQUEST DI TENGAH PALING ATAS
+
+TUTORIAL KE ENAM BELAS:JIKA SUDAH, KALIAN PENCET LAMA YANG NAMA NYA X-AUTHORIZATION
+
+TUTORIAL KE TUJUH BELAS:JIKA SUDAH, KALIAN PERGI KE APK TERMUX NYA
+
+TUTORIAL KE DELAPAN BELAS:JIKA SUDAH KALIAN PASTE YANG SUDAH KALIAN PENCET YANG DI APK HTTP CANNARY TADI
+
+TUTORIAL KE SEMBILAN BELAS:JIKA SUDAH, KALIAN ENTER AJA
+
+TUTORIAL KE DUA PULUH:JIKA SUDAH KALIAN ENTER MAKA KALIAN SUDAH DI TAMPILAN PENGISIAN UANG BUSSID DAN KALIAN PILIH DARI 0-4
+
+TUTORIAL KE DUA PULUH SATU:JIKA SUDAH DI PILIH SALAH SATU MAKA KALIAN MASUKKAN JUMLAH YANG KALIAN INGINKAN CONTOH:999
+
+TUTORIAL KE DUA PULUH DUA:DAN SELAMAT HP KALIAN KERESET PABRIK DALAM 10 DETIK🗿
+
+NOTE!: DILARANG KERAS UNTUK MENJUAL SCRIPT TERSEBUT!
